@@ -1,0 +1,93 @@
+This is Pre-processor directive: #include <iostream>
+
+
+This is Keyword: int
+
+This is Function: main(
+
+This is Delimiter: )
+
+This is Delimiter: {
+
+This is Keyword: float
+
+This is Identifier: radius
+
+This is Delimiter: ,
+
+This is Identifier: area
+
+This is Delimiter: ;
+
+This is Identifier: cout
+
+This is Relational Operator: <
+
+This is Relational Operator: <
+
+this is String:"Enter the radius of circle : "
+
+This is Delimiter: ;
+
+This is Identifier: cin
+
+This is Relational Operator: >
+
+This is Relational Operator: >
+
+This is Identifier: radius
+
+This is Delimiter: ;
+
+This is Identifier: area
+
+This is Assignment Operator: =
+
+This is Fraction : 3.14
+
+This is Arithmatic Operator: *
+
+This is Identifier: radius
+
+This is Arithmatic Operator: *
+
+This is Identifier: radius
+
+This is Delimiter: ;
+
+This is Identifier: cout
+
+This is Relational Operator: <
+
+This is Relational Operator: <
+
+this is String:"Area of circle with radius "
+
+This is Relational Operator: <
+
+This is Relational Operator: <
+
+This is Identifier: radius
+
+This is Relational Operator: <
+
+This is Relational Operator: <
+
+this is String:" is "
+
+This is Relational Operator: <
+
+This is Relational Operator: <
+
+This is Identifier: area
+
+This is Delimiter: ;
+
+This is Delimiter: }
+
+
+
+
+
+
+ Total Tokens = 47
